@@ -1,6 +1,12 @@
 # challange_week3
 
-A new Flutter project.
+Result
+
+
+
+![Screenshot_1671770990](https://user-images.githubusercontent.com/110503759/209273985-bdaa9f73-1f8f-4d2e-9093-015fcc121175.png)
+
+![Screenshot_1671770993](https://user-images.githubusercontent.com/110503759/209274000-0225ca98-4485-4a16-b27f-2c9c227cdc80.png)
 
 ## Getting Started
 
